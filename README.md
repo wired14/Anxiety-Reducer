@@ -1,2 +1,2 @@
 # Anxiety-Reducer
-Application reminders that is dead simple
+Reminders that are dead simple to use. 5 reminders are free and upgrade to paid for unlimited access.
